@@ -1,12 +1,12 @@
 Prototype
 =========
 
-Construction Process
+**Construction Process**
 
--Materials: Insulated box for incubator structure, wood for egg turner bars and platform, arduino, temperature and humidity 
-sensor, heat lamp, servo, servo connector to attach to turner
+1.Materials: *Insulated box for incubator structure *Wood for egg turner bars and platform *Arduino *Temperature and humidity 
+sensor *Heat lamp *Servo *Servo connector to attach to turner
 
--Coding: Clayton worked every day on coding for the temperature settings. With the code he made, the incubator will always be 
+Coding: Clayton worked every day on coding for the temperature settings. With the code he made, the incubator will always be 
 100 degrees fehrenheit. Jean set up the temperature sensor, which is hooked up to the arduino. It will send a signal back to the
 arduino when the incubator is below 100 degrees and from there, the heat lamp will turn on. When the temperature gets back to 100  
 the sensor will again send a signal to the arduino, and the lamp will turn back off. Nikki made a code for the servo to turn the 
