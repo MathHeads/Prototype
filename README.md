@@ -3,7 +3,8 @@ Prototype
 
 **Construction Process**
 
-1. Materials: 
+ Materials: 
+ 
 * Insulated box for incubator structure 
 * Wood for egg turner bars and platform 
 * Arduino 
@@ -12,7 +13,8 @@ Prototype
 * Servo 
 * Servo connector to attach to turner
 
-2. Coding: 
+ Coding: 
+ 
 * Clayton worked every day on coding for the temperature settings 
 * With the code he made, the incubator will always be 100 degrees fehrenheit
 * Jean set up the temperature sensor, which is hooked up to the arduino. It will send a signal back to the arduino when the incubator is below 100 degrees and from there, the heat lamp will turn on and when the temperature gets back to 100  
@@ -22,7 +24,8 @@ the sensor will again send a signal to the arduino, and the lamp will turn back 
 the servo turned 180 degrees and then immediately back about every 2 minutes. This is one thing we will have to fix for the 
 final. 
 
-3. Egg turning: 
+ Egg turning:
+ 
 * Ellie built two platforms for eggs to lay, and bars that hook up to the servo that push the eggs in order for them
 to turn. She built them according to average egg size. We expect to build bigger platforms with more bars to push the eggs for
 the final 
@@ -31,4 +34,5 @@ the bars back and forth in order for the eggs to turn.
 * In our prototype, the bars only move about 3/4 inches, but for our final we will have a bigger attachment to the servo in order so that the bars will move 2-3 inches. The bars must move 2-3 inches so 
 that the egg will turn at lest 45 degrees each time the servo turns on. 
 
-4. Critical component is the egg turner connected to the servo
+
+ Critical component is the egg turner connected to the servo
